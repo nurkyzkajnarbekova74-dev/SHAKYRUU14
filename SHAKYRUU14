@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Шақыру / Приглашение</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fcf8f2;
+            color: #4a3e3d;
+            text-align: center;
+            padding: 50px 20px;
+            margin: 0;
+        }
+        .card {
+            background: white;
+            padding: 40px 30px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+            max-width: 500px;
+            margin: 0 auto;
+            border: 1px solid #eee;
+        }
+        h1 {
+            color: #bfa15f;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        .wedding-text {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .date {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #bfa15f;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>Шақыру</h1>
+        <p class="wedding-text">Құрметті қонақтар! <br> Сіздерді біздің қуанышымыздың куәсі болуға шақырамыз.</p>
+        <div class="date">12.12.2026</div>
+        <p class="wedding-text">Тойхана: "Shaqyru Palace"</p>
+    </div>
+
+</body>
+</html>
